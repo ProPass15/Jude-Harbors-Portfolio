@@ -1,0 +1,70 @@
+html body {
+    background-color: rgb(24, 22, 22);
+    color: white;
+}
+
+.logo {
+    color: orangered;
+}
+
+
+
+.ol {
+    color: grey;
+    font-size: 50px;
+}
+
+.first h1 {
+    font-size: 70px;
+}
+
+.first p {
+    background-color: orangered;
+    width: 105px;
+    text-align: center;
+}
+
+
+.first h2 {
+    color: orangered; 
+}
+
+.second {
+    background-color: rgb(17, 16, 16);
+}
+
+.second .titles {
+    color: orangered;
+}
+
+.second a {
+    color: orangered;
+}
+
+
+/* .third .progress {
+    height: 5px;
+} */
+
+.fourth {
+    background-color: rgb(17, 16, 16);
+}
+
+.fifth .col{
+    width: 13rem;
+    background-color: rgb(24, 22, 22);
+}
+
+.hover-text {
+    color: white;
+    transition: color 0.3s;
+    font-size: 20px;
+}
+
+.hover-text:hover {
+    color: orangered;
+}
+
+footer {
+    background-color: orangered;
+}
