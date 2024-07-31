@@ -7,8 +7,6 @@ html body {
     color: orangered;
 }
 
-
-
 .ol {
     color: grey;
     font-size: 50px;
@@ -18,9 +16,6 @@ html body {
     font-size: 70px;
 }
 
-.SVG {
-    
-}
 
 .first p {
     background-color: orangered;
@@ -46,9 +41,6 @@ html body {
 }
 
 
-/* .third .progress {
-    height: 5px;
-} */
 
 .fourth {
     background-color: rgb(17, 16, 16);
